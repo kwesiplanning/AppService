@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_This is also known as your local planni_3afbd3</name>
+   <tag></tag>
+   <elementGuidId>9be9b321-82eb-4e90-9b63-aa4138377b67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='local-planning-department-hint']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#local-planning-department-hint</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3cc53a66-6c14-4a4a-9ac9-25ca5ffa03a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>local-planning-department-hint</value>
+      <webElementGuid>84955eaa-96b1-434f-b839-ad42bd30000e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-hint</value>
+      <webElementGuid>c5640e08-073a-46bd-829d-bf8ac3dc782c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    This is also known as your 'local planning authority' or 'LPA'.
+  </value>
+      <webElementGuid>ca134339-ea0f-4a9d-bae0-ed0c83d16e89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;local-planning-department-hint&quot;)</value>
+      <webElementGuid>7c39a53c-8e7d-48cb-b315-1c4cce4c28a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='local-planning-department-hint']</value>
+      <webElementGuid>7387ff9b-6f9a-42a2-8873-24a03a473821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/form/div/div/div</value>
+      <webElementGuid>79dbce6e-2f62-4168-800a-9c35ad246d82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Which local planning department dealt with your planning application?'])[1]/following::div[1]</value>
+      <webElementGuid>aeb138ba-b493-4a51-b040-258699344469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Before you start'])[1]/following::div[2]</value>
+      <webElementGuid>a62c947a-6042-400e-b36b-3af7fce626ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::div[6]</value>
+      <webElementGuid>27632f42-7931-4d38-a967-56eb68ce2eea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact the Planning Inspectorate'])[1]/preceding::div[6]</value>
+      <webElementGuid>d80b276a-1870-4b50-bf17-53193cd2b24f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div</value>
+      <webElementGuid>3f733edc-eb17-4be2-b141-08f4cd2b77e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'local-planning-department-hint' and (text() = concat(&quot;
+    This is also known as your &quot; , &quot;'&quot; , &quot;local planning authority&quot; , &quot;'&quot; , &quot; or &quot; , &quot;'&quot; , &quot;LPA&quot; , &quot;'&quot; , &quot;.
+  &quot;) or . = concat(&quot;
+    This is also known as your &quot; , &quot;'&quot; , &quot;local planning authority&quot; , &quot;'&quot; , &quot; or &quot; , &quot;'&quot; , &quot;LPA&quot; , &quot;'&quot; , &quot;.
+  &quot;))]</value>
+      <webElementGuid>02b1d970-01b8-46b0-b2b7-73294cb98a34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Select which type of planning application_4005ed</name>
+   <tag></tag>
+   <elementGuidId>32b9e5ec-0320-4fc5-bcb0-e9da2105d081</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div[2]/div/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>27361b44-8d1e-4ebc-8771-195f33556226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#type-of-planning-application</value>
+      <webElementGuid>c26fbbe6-dc71-43a2-af86-f608adbb9f03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select which type of planning application your appeal is about, or if you have not made a planning application</value>
+      <webElementGuid>ea1045cb-4077-4403-8ec5-4bf6c98e07e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;govuk-main-wrapper govuk-main-wrapper--auto-spacing&quot;]/div[@class=&quot;govuk-error-summary&quot;]/div[@class=&quot;govuk-error-summary__body&quot;]/ul[@class=&quot;govuk-list govuk-error-summary__list&quot;]/li[1]/a[1]</value>
+      <webElementGuid>9f1789f7-21d6-445e-b50d-6f4d45acd7bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f45c717f-16ba-4af3-9810-1c1900a8affa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#type-of-planning-application</value>
+      <webElementGuid>474cde18-1229-4088-945e-7d0346f1ed19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select which type of planning application your appeal is about, or if you have not made a planning application</value>
+      <webElementGuid>60824f13-0ea6-4124-965b-2b55d68409c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;govuk-main-wrapper govuk-main-wrapper--auto-spacing&quot;]/div[@class=&quot;govuk-error-summary&quot;]/div[@class=&quot;govuk-error-summary__body&quot;]/ul[@class=&quot;govuk-list govuk-error-summary__list&quot;]/li[1]/a[1]</value>
+      <webElementGuid>32b9fbcd-a2eb-40a3-a505-09a2312519c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/ul/li/a</value>
+      <webElementGuid>d0ba7dc5-bdb9-491f-a72a-c06add8baf5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Select which type of planning application your appeal is about, or if you have not made a planning application')]</value>
+      <webElementGuid>51512c20-ccd2-4a8c-9fd2-f148cff54329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='There is a problem'])[1]/following::a[1]</value>
+      <webElementGuid>73eb03f3-15fc-4986-95bb-e9d1a5ff4114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::a[1]</value>
+      <webElementGuid>773ce77c-2e82-471e-9046-b836223119da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Before you start'])[1]/preceding::a[1]</value>
+      <webElementGuid>9f3936cd-d886-4858-85cf-6062848cf68f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What type of planning application is your appeal about?'])[1]/preceding::a[1]</value>
+      <webElementGuid>afc78512-ce74-4078-8ddd-aa7b8f561fe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select which type of planning application your appeal is about, or if you have not made a planning application']/parent::*</value>
+      <webElementGuid>4dbb4f72-0c52-49e7-bd89-5f05f9b94e91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#type-of-planning-application')]</value>
+      <webElementGuid>7d22d946-8a33-4f1d-a6f4-e2af58cb9980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>34fa0176-ebfc-4389-bf6a-714334fc1bab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#type-of-planning-application' and (text() = 'Select which type of planning application your appeal is about, or if you have not made a planning application' or . = 'Select which type of planning application your appeal is about, or if you have not made a planning application')]</value>
+      <webElementGuid>6ff087eb-fea3-4ee2-8f68-84ec9204594f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

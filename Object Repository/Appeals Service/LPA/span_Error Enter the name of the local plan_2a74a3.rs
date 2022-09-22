@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Error Enter the name of the local plan_2a74a3</name>
+   <tag></tag>
+   <elementGuidId>34d77320-a097-4204-b121-922a877a2e6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='local-planning-department-error']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#local-planning-department-error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>05e62aa9-8ff7-414e-b188-07c2124dd61e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>local-planning-department-error</value>
+      <webElementGuid>98a35aae-f3bb-4fdf-8546-06f1e4cec857</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-error-message</value>
+      <webElementGuid>98239c3a-61bc-4582-93cb-084d8f5df30e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Error: Enter the name of the local planning department
+  </value>
+      <webElementGuid>8817bde7-1a07-4c7b-9dfb-f9a6ac8d4448</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;local-planning-department-error&quot;)</value>
+      <webElementGuid>996f473b-c6f4-4167-a946-09ec692760d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='local-planning-department-error']</value>
+      <webElementGuid>045b71fc-884b-4beb-afba-5895f4338d9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div[2]/div/form/div/div/span</value>
+      <webElementGuid>706da1d9-f9c1-4f7f-8f4a-b9bba3ff2057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Which local planning department dealt with your planning application?'])[1]/following::span[1]</value>
+      <webElementGuid>389c64bc-d788-4c53-a543-58575ab6ae80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Before you start'])[1]/following::span[1]</value>
+      <webElementGuid>a4e1af57-bfa8-4788-992f-1e872d579e21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::span[3]</value>
+      <webElementGuid>a76b21e0-5088-45ec-af55-278024834263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/span</value>
+      <webElementGuid>48a936d0-bb16-41b7-b7f3-2891ba9e7091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'local-planning-department-error' and (text() = '
+    Error: Enter the name of the local planning department
+  ' or . = '
+    Error: Enter the name of the local planning department
+  ')]</value>
+      <webElementGuid>d5cdb4b4-b874-448c-9257-0c855f8ddf32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

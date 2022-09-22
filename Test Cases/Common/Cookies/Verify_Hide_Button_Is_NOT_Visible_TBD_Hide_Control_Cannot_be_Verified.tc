@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Hide_Button_Is_NOT_Visible_TBD_Hide_Control_Cannot_be_Verified</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ddd70c5d-b95e-4fd3-88c8-5cfa36fa9df5</testCaseGuid>
+</TestCaseEntity>

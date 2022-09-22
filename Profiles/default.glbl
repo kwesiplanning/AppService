@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://appeals-service-test.planninginspectorate.gov.uk/before-you-start/local-planning-department'</initValue>
+      <name>lpaPageUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://appeals-service-test.planninginspectorate.gov.uk/before-you-start/type-of-planning-application'</initValue>
+      <name>typeOfPlanningApplicationPageUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://appeals-service-test.planninginspectorate.gov.uk/before-you-start/any-of-following'</initValue>
+      <name>anyOfTheFollowingPageUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://appeals-service-test.planninginspectorate.gov.uk/before-you-start/granted-or-refused'</initValue>
+      <name>grantedOrRefusedPageUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://appeals-service-test.planninginspectorate.gov.uk/before-you-start/prior-approval-existing-home'</initValue>
+      <name>priorApprovalPageUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://appeals-service-test.planninginspectorate.gov.uk/before-you-start/listed-building-householder'</initValue>
+      <name>listedBuildingHouseHolderPageUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://appeals-service-test.planninginspectorate.gov.uk/before-you-start/conditions-householder-permission'</initValue>
+      <name>conditionsHouseHolderPermissionsPageUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://appeals-service-test.planninginspectorate.gov.uk/before-you-start/use-existing-service-application-type'</initValue>
+      <name>useExistingServiceUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Which local planning department dealt with your planning application? - Before you start - Appeal a planning decision - GOV.UK'</initValue>
+      <name>lpaPageTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'What type of planning application is your appeal about? - Before you start - Appeal a planning decision - GOV.UK'</initValue>
+      <name>typeOfPlanningPageTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Was your planning application about any of the following? - Before you start - Appeal a planning decision - GOV.UK'</initValue>
+      <name>anyOfTheFollowingPageTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Was your planning application granted or refused? - Before you start - Appeal a planning decision - GOV.UK'</initValue>
+      <name>grantedOrRefusedPageTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Did you apply for prior approval to extend an existing home? - Before you start - Appeal a planning decision - GOV.UK'</initValue>
+      <name>priorApprovalPageTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Is your appeal about a listed building? - Before you start - Appeal a planning decision - GOV.UK'</initValue>
+      <name>listedBuildingHouseHolderPageTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Are the conditions for householder planning permission? - Before you start - Appeal a planning decision - GOV.UK'</initValue>
+      <name>conditionsHouseHolderPermissionsTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'You need to use the existing service - Before you start - Appeal a planning decision - GOV.UK'</initValue>
+      <name>useExistingServiceTitle</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

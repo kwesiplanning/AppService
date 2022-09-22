@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Smoke_Test_Appeals</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c04a5dea-8b69-4862-823f-72775dbcfcad</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>39dfdb30-721e-4df3-9a8e-368d441edbe3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>ad75d65e-0d3f-49bd-93e4-d5d2badaf18e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>206d0f10-3551-41a3-b47c-d9d2f3202ac1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>39dfdb30-721e-4df3-9a8e-368d441edbe3</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ad75d65e-0d3f-49bd-93e4-d5d2badaf18e</id>
+      <masked>false</masked>
+      <name>PageTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>206d0f10-3551-41a3-b47c-d9d2f3202ac1</id>
+      <masked>false</masked>
+      <name>H1_Text</name>
+   </variable>
+</TestCaseEntity>
