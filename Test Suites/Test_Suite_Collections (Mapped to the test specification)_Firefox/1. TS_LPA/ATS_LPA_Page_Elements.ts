@@ -15,7 +15,7 @@
             <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Tests (User journeys)/LPA_Page/Navigate_To_LPA_Page_Verify_Title</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Tests (User journeys)/Common/LPA_Page/Navigate_To_LPA_Page_Verify_Title</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -25,7 +25,7 @@
             <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Tests (User journeys)/LPA_Page/Navigate_To_LPA_Page_Verify_H1</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Tests (User journeys)/Common/LPA_Page/Navigate_To_LPA_Page_Verify_H1</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -35,7 +35,7 @@
             <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Tests (User journeys)/LPA_Page/Navigate_To_LPA_Page_Verify_Url</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Tests (User journeys)/Common/LPA_Page/Navigate_To_LPA_Page_Verify_Url</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -45,7 +45,7 @@
             <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Tests (User journeys)/LPA_Page/Navigate_To_LPA_Page_NO_LPA_Selected_And_Continue</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Tests (User journeys)/Common/LPA_Page/Navigate_To_LPA_Page_NO_LPA_Selected_And_Continue</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -55,7 +55,7 @@
             <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Tests (User journeys)/LPA_Page/Navigate_To_LPA_Page_System_Test_Borough_Selected_And_Continue</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Tests (User journeys)/Common/LPA_Page/Navigate_To_LPA_Page_System_Test_Borough_Selected_And_Continue</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

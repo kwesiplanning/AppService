@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Go to your inbox to confirm that this is _a4b37f</name>
+   <tag></tag>
+   <elementGuidId>4ffc6da3-636e-498c-8d39-64996a95d5d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div[2]/div/div/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>547dfa7b-2843-4fae-8826-5c9d91060014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-body</value>
+      <webElementGuid>a8c7e729-c2e8-45b2-afc8-87becb9c9b2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Go to your inbox to confirm that this is the correct email address. The link in the email will expire after 30 minutes.</value>
+      <webElementGuid>6b853c52-705f-417b-95ae-30fed947414d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;govuk-main-wrapper govuk-main-wrapper--auto-spacing&quot;]/div[@class=&quot;govuk-grid-row&quot;]/div[@class=&quot;govuk-grid-column-two-thirds&quot;]/p[@class=&quot;govuk-body&quot;]</value>
+      <webElementGuid>668c3b3a-8248-4c48-84df-133debc5275a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/p[2]</value>
+      <webElementGuid>853d60b1-c701-4007-9b8e-24118c419069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm your email address'])[1]/following::p[2]</value>
+      <webElementGuid>30bf0c99-e205-43ca-a620-7e3a4e63fd18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::p[2]</value>
+      <webElementGuid>9bb288b7-cb2c-4597-80f6-992dfe8dfb50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('If you', &quot;'&quot;, 're having problems')])[1]/preceding::p[1]</value>
+      <webElementGuid>0b17a0fa-be56-47fc-8461-5fc104141009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='resend the email'])[1]/preceding::p[2]</value>
+      <webElementGuid>b2d49c43-3e50-4257-b7a1-de6ec33c315c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Go to your inbox to confirm that this is the correct email address. The link in the email will expire after 30 minutes.']/parent::*</value>
+      <webElementGuid>b2d98c69-0822-4de8-a752-36d38e2535f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/p[2]</value>
+      <webElementGuid>6e3bdc65-b17d-495f-8024-9d5795264f8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Go to your inbox to confirm that this is the correct email address. The link in the email will expire after 30 minutes.' or . = 'Go to your inbox to confirm that this is the correct email address. The link in the email will expire after 30 minutes.')]</value>
+      <webElementGuid>64e71ec6-c509-4255-a6b2-1de12814f9e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

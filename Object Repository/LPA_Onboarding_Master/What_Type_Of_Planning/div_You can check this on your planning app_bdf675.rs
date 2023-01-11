@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_You can check this on your planning app_bdf675</name>
+   <tag></tag>
+   <elementGuidId>366407f5-5819-433e-9192-27d3c18190e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='eligibility-v9-whatareyouappealing-hint']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#eligibility-v9-whatareyouappealing-hint</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>06b6e59b-ddc5-4a1e-bbdf-16c2ae7130fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>eligibility-v9-whatareyouappealing-hint</value>
+      <webElementGuid>ca2b4b14-8bd3-4a96-a3f5-3d3c1f6dd198</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-hint</value>
+      <webElementGuid>a4c3371b-04c9-48da-8890-52cdb5da5c13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        You can check this on your planning application form.
+                      </value>
+      <webElementGuid>d3df4730-a9aa-4dd4-bd42-82c88157fa3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eligibility-v9-whatareyouappealing-hint&quot;)</value>
+      <webElementGuid>a028cc8e-50e1-451f-aff3-ed6f72d39475</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='eligibility-v9-whatareyouappealing-hint']</value>
+      <webElementGuid>06e322a8-b5ee-4b92-9941-5a31af29f7cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/form/div/div/fieldset/legend/h1/div</value>
+      <webElementGuid>af4b8d8c-3f89-406c-9d58-3626c66bcbf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What type of planning application is your appeal about?'])[1]/following::div[1]</value>
+      <webElementGuid>f45e6ae3-09d6-478d-8ee8-370158f9545b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Before you start'])[1]/following::div[2]</value>
+      <webElementGuid>53ecbaed-bcb1-4946-97d3-6467bbb4b441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full planning'])[1]/preceding::div[1]</value>
+      <webElementGuid>0165b3e3-37c1-4c6c-a97b-89c9b2210ab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Householder planning'])[1]/preceding::div[2]</value>
+      <webElementGuid>2f427e5f-8302-4849-83b1-ec614563c9e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='You can check this on your planning application form.']/parent::*</value>
+      <webElementGuid>0f5258a0-c553-4bf7-bea0-b728d4bcd0b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/div</value>
+      <webElementGuid>f5659360-df34-4aec-97f7-2bad151a096e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'eligibility-v9-whatareyouappealing-hint' and (text() = '
+                        You can check this on your planning application form.
+                      ' or . = '
+                        You can check this on your planning application form.
+                      ')]</value>
+      <webElementGuid>88b66b49-e60e-4f68-9384-0b6b5a485794</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

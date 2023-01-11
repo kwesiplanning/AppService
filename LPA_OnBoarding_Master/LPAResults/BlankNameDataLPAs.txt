@@ -1,0 +1,8 @@
+The following LPA's are marked as true on the CSV but are their LPA names are empty or blank :
+  
+------------------------------------------------------
+  
+OBJECTID:  LPA19CD: E60000001 LPA CODE: X1355 Email: planning@durham.gov.uk DOMAIN: durham.gov.uk
+OBJECTID:  LPA19CD: E60000002 LPA CODE: N1350 Email: planning.enquiries@darlington.gov.uk DOMAIN: darlington.gov.uk
+OBJECTID:  LPA19CD: E60000003 LPA CODE: H0724 Email: developmentcontrol@hartlepool.gov.uk DOMAIN: hartlepool.gov.uk
+OBJECTID:  LPA19CD: E60000004 LPA CODE: W0734 Email: developmentcontrol@middlesbrough.gov.uk DOMAIN: middlesbrough.gov.uk

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Is the appeal site part of an agricult_babd07</name>
+   <tag></tag>
+   <elementGuidId>fe7588a8-e745-45d4-8aac-8aa0bd55cb5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div[2]/div/div/dl[2]/div[3]/dt/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6fbba8b7-e489-4a16-959f-fd627c44bca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cy</name>
+      <type>Main</type>
+      <value>is-agricultural-holding-label</value>
+      <webElementGuid>0b4163da-3f0c-4f0e-97eb-e039964e8ab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Is the appeal site part of an agricultural holding?</value>
+      <webElementGuid>6b33e836-e06b-44b8-b808-b61d45e6edce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;govuk-main-wrapper govuk-main-wrapper--auto-spacing&quot;]/div[@class=&quot;govuk-grid-row&quot;]/div[@class=&quot;govuk-grid-column-full&quot;]/dl[@class=&quot;govuk-summary-list govuk-summary-list govuk-!-margin-bottom-9&quot;]/div[@class=&quot;govuk-summary-list__row&quot;]/dt[@class=&quot;govuk-summary-list__key&quot;]/span[1]</value>
+      <webElementGuid>58cbdee5-aef1-43d4-97de-f9c5bb993ae5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/dl[2]/div[3]/dt/span</value>
+      <webElementGuid>8dee3c3a-c65d-4307-9811-4146fbdd9dac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='if you own all the land involved in the appeal'])[1]/following::span[1]</value>
+      <webElementGuid>4cce0da3-5461-4393-96a7-0de943f0e184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::span[1]</value>
+      <webElementGuid>55a66dbf-5cd6-4486-a4e0-eb60633e6a2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Is the appeal site part of an agricultural holding?']/parent::*</value>
+      <webElementGuid>20bd9c86-c3d6-43fd-adea-10370c3f707c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/dt/span</value>
+      <webElementGuid>4b62348d-0b5f-4409-9b33-b279089aa67d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Is the appeal site part of an agricultural holding?' or . = 'Is the appeal site part of an agricultural holding?')]</value>
+      <webElementGuid>5fddc015-8f6c-4eb0-9a69-70ea6eb157b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_if you have not included all the informa_94e0a6</name>
+   <tag></tag>
+   <elementGuidId>d0a76145-510c-43a9-84fb-ca278a1fb286</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div[2]/div/div/form/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>9bf494d5-be56-490c-b832-779dc188cbb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>if you have not included all the information we've requested, we may not be able to progress your appeal</value>
+      <webElementGuid>dbc6132a-dc2b-4544-8f26-e3b5ce991607</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;govuk-main-wrapper govuk-main-wrapper--auto-spacing&quot;]/div[@class=&quot;govuk-grid-row&quot;]/div[@class=&quot;govuk-grid-column-two-thirds&quot;]/form[1]/ul[@class=&quot;govuk-list govuk-list--bullet&quot;]/li[2]</value>
+      <webElementGuid>403b6d3e-abfe-44dd-a84a-41f62195fd7e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/form/ul/li[2]</value>
+      <webElementGuid>cd14c74d-8354-418a-a231-d05aec9cb333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='this is your only opportunity to submit the appeal'])[1]/following::li[1]</value>
+      <webElementGuid>e6362268-1d05-4248-874f-4d02e20465d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Declaration'])[1]/following::li[2]</value>
+      <webElementGuid>a3b30cbe-0148-4d4c-b960-fd8c12664b1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='we will contact you about any missing information, but this may delay your appeal'])[1]/preceding::li[1]</value>
+      <webElementGuid>a3391cf4-4ed9-4dd0-8d3c-5b150bae4aef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Notice'])[1]/preceding::li[2]</value>
+      <webElementGuid>3507a8db-4b66-435e-aef2-c5c8ece1f53e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>5ef33a50-eb98-4373-b639-d948bd5b844a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = concat(&quot;if you have not included all the information we&quot; , &quot;'&quot; , &quot;ve requested, we may not be able to progress your appeal&quot;) or . = concat(&quot;if you have not included all the information we&quot; , &quot;'&quot; , &quot;ve requested, we may not be able to progress your appeal&quot;))]</value>
+      <webElementGuid>d2462ba0-fbab-41b6-88fc-3e2b417a872d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

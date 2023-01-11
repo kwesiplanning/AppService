@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Change separate ownership certificate and_79ff18</name>
+   <tag></tag>
+   <elementGuidId>0ea8ec0e-8bb9-4993-af18-fb185c0f0a98</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div[2]/div/div/dl[4]/div[2]/dd[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>386cadf7-51ff-447f-9be0-befa2732ffd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-link</value>
+      <webElementGuid>faa0d1fd-9332-4c90-ab63-a5aa6c1de09b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/full-appeal/submit-appeal/application-certificates-included</value>
+      <webElementGuid>dfe028bc-a133-4ae7-a132-1d518c9add25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cy</name>
+      <type>Main</type>
+      <value>separate-ownership-certificate</value>
+      <webElementGuid>a438182d-0ef4-4c2d-b929-fb17adcd1f9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Change separate ownership certificate and agricultural land declaration
+                </value>
+      <webElementGuid>eb68a16f-5be2-4ae0-b73a-55fa12ce4aa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;govuk-main-wrapper govuk-main-wrapper--auto-spacing&quot;]/div[@class=&quot;govuk-grid-row&quot;]/div[@class=&quot;govuk-grid-column-full&quot;]/dl[@class=&quot;govuk-summary-list govuk-summary-list govuk-!-margin-bottom-9&quot;]/div[@class=&quot;govuk-summary-list__row&quot;]/dd[@class=&quot;govuk-summary-list__actions&quot;]/a[@class=&quot;govuk-link&quot;]</value>
+      <webElementGuid>07c7e382-d35f-4ee5-ada4-83c9754ebb78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/dl[4]/div[2]/dd[2]/a</value>
+      <webElementGuid>4f6ab7b7-a28e-47e0-b02f-a91328a384c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[3]/following::a[1]</value>
+      <webElementGuid>ab9d8d08-9e0c-4749-b199-a20d3d9a8ec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='the planning application form'])[1]/following::a[1]</value>
+      <webElementGuid>f0311817-4990-4166-b2c0-6e0529b2bc84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is the description of development on your application form still correct?'])[1]/preceding::a[1]</value>
+      <webElementGuid>1ac886dd-1d7c-47a0-8fff-780856598c4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/full-appeal/submit-appeal/application-certificates-included')]</value>
+      <webElementGuid>2e48f016-a1ba-47fd-8076-03cb9a882813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dl[4]/div[2]/dd[2]/a</value>
+      <webElementGuid>cbeb0bdc-7d29-4a9c-acba-1f360a2d193b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/full-appeal/submit-appeal/application-certificates-included' and (text() = '
+                Change separate ownership certificate and agricultural land declaration
+                ' or . = '
+                Change separate ownership certificate and agricultural land declaration
+                ')]</value>
+      <webElementGuid>763625b0-5e3c-40d7-9ba7-79698c3ff132</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

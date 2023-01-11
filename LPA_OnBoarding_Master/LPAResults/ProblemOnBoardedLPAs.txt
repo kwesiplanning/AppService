@@ -1,0 +1,9 @@
+The following LPA's are marked as true on the CSV but not are not allowing access to the Beta service :
+  
+------------------------------------------------------
+  
+Blackburn with Darwen
+Blackpool
+Blackburn with Darwen
+Blackpool
+Tewkesbury

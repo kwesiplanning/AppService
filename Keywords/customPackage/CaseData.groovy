@@ -47,4 +47,34 @@ class CaseData {
 
 		Console.println(test)
 	}
+
+	@Keyword
+	def WriteToFile(String[] LPAsToWriteToFile, String ReportDirectory, String fileName){
+		if (LPAsToWriteToFile.size() > 0) {
+			def file = new File(ReportDirectory)
+
+			file.mkdir()
+
+			new File(ReportDirectory, fileName).withWriter('utf-8', { def writer ->
+				LPAsToWriteToFile.each({
+					if (it != null) {
+						System.out.println(it + '\r\n')
+
+						writer.write(it + '\r\n')
+					}
+				})
+			})
+		}
+	}
+
+	@Keyword
+	def CreateReportTemplate(String[] ReprotTemplateArray, String Header) {
+		(ReprotTemplateArray[0]) = Header
+
+		(ReprotTemplateArray[1]) = '  '
+
+		(ReprotTemplateArray[2]) = '------------------------------------------------------'
+
+		(ReprotTemplateArray[3]) = '  '
+	}
 }

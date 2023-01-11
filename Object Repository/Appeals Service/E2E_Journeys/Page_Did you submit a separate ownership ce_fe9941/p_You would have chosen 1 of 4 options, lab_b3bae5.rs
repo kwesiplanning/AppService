@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_You would have chosen 1 of 4 options, lab_b3bae5</name>
+   <tag></tag>
+   <elementGuidId>45540f80-1641-4797-a828-d9f79dbfbaea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='did-you-submit-separate-certificate-hint']/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5a0c5005-c9e7-420f-a757-b40828054807</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You would have chosen 1 of 4 options, labelled A, B, C or D.</value>
+      <webElementGuid>64fb3113-765f-4d77-ae39-144370b39890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;did-you-submit-separate-certificate-hint&quot;)/p[2]</value>
+      <webElementGuid>2f18b838-133e-4082-9dff-8f720d3f1e5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='did-you-submit-separate-certificate-hint']/p[2]</value>
+      <webElementGuid>61af0d32-801b-4bc8-b35e-f351ec69a0f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload documents from your planning application'])[1]/following::p[2]</value>
+      <webElementGuid>14d1808b-af02-40cc-8dea-1531c0e1c060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::p[2]</value>
+      <webElementGuid>8da6ae1f-5a4a-47e4-81d0-ea9dd2dab7b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/preceding::p[1]</value>
+      <webElementGuid>2abf568b-ec5b-4351-85c5-b4515e596340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::p[1]</value>
+      <webElementGuid>8476e45c-ff9b-47a6-bfa7-8b2d46555ec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='You would have chosen 1 of 4 options, labelled A, B, C or D.']/parent::*</value>
+      <webElementGuid>6010fe78-049b-4b35-8182-eb03561b84ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/div/p[2]</value>
+      <webElementGuid>19fc5d46-d0fc-4891-a884-9a262c8b5c36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'You would have chosen 1 of 4 options, labelled A, B, C or D.' or . = 'You would have chosen 1 of 4 options, labelled A, B, C or D.')]</value>
+      <webElementGuid>8bc74eda-f057-4121-8cff-cd6ddff08be7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

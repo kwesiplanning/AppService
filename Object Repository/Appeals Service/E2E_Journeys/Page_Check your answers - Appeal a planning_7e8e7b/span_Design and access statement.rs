@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Design and access statement</name>
+   <tag></tag>
+   <elementGuidId>bd2d46ea-54bd-49e6-aa98-e9807860c9b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div[2]/div/div/dl[4]/div[6]/dt/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e66ae36a-152c-4661-b8d7-7752996271f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cy</name>
+      <type>Main</type>
+      <value>design-access-statement-label</value>
+      <webElementGuid>24c2b02c-a2d1-4bc1-a479-15a436c3a9ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Design and access statement</value>
+      <webElementGuid>8d355f46-fb5a-4d61-bfb1-800bcefbf369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;govuk-main-wrapper govuk-main-wrapper--auto-spacing&quot;]/div[@class=&quot;govuk-grid-row&quot;]/div[@class=&quot;govuk-grid-column-full&quot;]/dl[@class=&quot;govuk-summary-list govuk-summary-list govuk-!-margin-bottom-9&quot;]/div[@class=&quot;govuk-summary-list__row&quot;]/dt[@class=&quot;govuk-summary-list__key&quot;]/span[1]</value>
+      <webElementGuid>0b2c0796-77d9-46e9-a17d-a05004ad3588</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/dl[4]/div[6]/dt/span</value>
+      <webElementGuid>f8fd029d-4e66-4c94-8098-07bac83e9aa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='if you submitted a design and access statement with your application'])[1]/following::span[1]</value>
+      <webElementGuid>6731973d-d840-46a4-a828-bd5ea1dab446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Horizon Test PNG Less than 15mb - Copy.PNG'])[1]/preceding::span[1]</value>
+      <webElementGuid>39a8084c-9782-45ce-988b-366aa44caceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Design and access statement']/parent::*</value>
+      <webElementGuid>3cd176e4-ce71-4bf5-ada1-68254f19b32b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/dt/span</value>
+      <webElementGuid>990171fb-d7e4-4ba1-957d-c11a42891142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Design and access statement' or . = 'Design and access statement')]</value>
+      <webElementGuid>95442e52-c8c8-46a6-974d-20ee43d07c7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Change the design and access statement</name>
+   <tag></tag>
+   <elementGuidId>e9855e78-7c4f-4156-8690-9b55ccab9299</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div[2]/div/div/dl[4]/div[6]/dd[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a4d39362-37d1-4226-bad1-e8709907c9a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-link</value>
+      <webElementGuid>fd293e6d-e784-492e-bb62-81c6a74821a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/full-appeal/submit-appeal/design-access-statement</value>
+      <webElementGuid>9f533233-f3d0-4b93-93ba-9d858cc54df8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cy</name>
+      <type>Main</type>
+      <value>change-design-access-statement</value>
+      <webElementGuid>5eb16bbb-4694-439a-81e3-edff72ea1826</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Change the design and access statement
+                </value>
+      <webElementGuid>4c66224a-15a2-4a4e-b951-4ff862054e3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;govuk-main-wrapper govuk-main-wrapper--auto-spacing&quot;]/div[@class=&quot;govuk-grid-row&quot;]/div[@class=&quot;govuk-grid-column-full&quot;]/dl[@class=&quot;govuk-summary-list govuk-summary-list govuk-!-margin-bottom-9&quot;]/div[@class=&quot;govuk-summary-list__row&quot;]/dd[@class=&quot;govuk-summary-list__actions&quot;]/a[@class=&quot;govuk-link&quot;]</value>
+      <webElementGuid>0eee0ec9-8338-4679-ab41-007d94aec1b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/dl[4]/div[6]/dd[2]/a</value>
+      <webElementGuid>644e63c3-5dc2-4cf3-8e0e-2305ee75c965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Horizon Test PNG Less than 15mb - Copy.PNG'])[1]/following::a[1]</value>
+      <webElementGuid>4dc47b13-db0b-43ae-b2f9-81e93b8923de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Design and access statement'])[1]/following::a[2]</value>
+      <webElementGuid>abada142-f22d-4047-9ca2-f550458f2c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Decision letter'])[1]/preceding::a[1]</value>
+      <webElementGuid>c4ea72d9-f315-4b5e-9d22-feddaf25e449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/full-appeal/submit-appeal/design-access-statement')])[2]</value>
+      <webElementGuid>cd5f7dbe-0b39-4e80-a6a8-90a8ab6b545b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/dd[2]/a</value>
+      <webElementGuid>8a90d86b-0629-4c05-bef4-3506ad541e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/full-appeal/submit-appeal/design-access-statement' and (text() = '
+                Change the design and access statement
+                ' or . = '
+                Change the design and access statement
+                ')]</value>
+      <webElementGuid>6aa959c0-230e-449f-92db-871325c72f51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

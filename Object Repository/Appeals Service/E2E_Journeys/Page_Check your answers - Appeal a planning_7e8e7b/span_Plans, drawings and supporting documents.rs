@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Plans, drawings and supporting documents</name>
+   <tag></tag>
+   <elementGuidId>fa07b1f5-eb44-4a09-bc0d-fcff8fcc5a71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div[2]/div/div/dl[4]/div[4]/dt/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f1bdfd30-cd9b-4594-b782-b03048de48fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cy</name>
+      <type>Main</type>
+      <value>plans-drawings-supporting-documents-label</value>
+      <webElementGuid>b847ad25-6d3a-48e8-a4c8-8ea93f1045e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Plans, drawings and supporting documents</value>
+      <webElementGuid>3d136adc-4c48-4b74-b465-dc7151a5f79f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;govuk-main-wrapper govuk-main-wrapper--auto-spacing&quot;]/div[@class=&quot;govuk-grid-row&quot;]/div[@class=&quot;govuk-grid-column-full&quot;]/dl[@class=&quot;govuk-summary-list govuk-summary-list govuk-!-margin-bottom-9&quot;]/div[@class=&quot;govuk-summary-list__row&quot;]/dt[@class=&quot;govuk-summary-list__key&quot;]/span[1]</value>
+      <webElementGuid>188dd2a7-7bf5-4193-8f16-c3ba4ee02b45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/dl[4]/div[4]/dt/span</value>
+      <webElementGuid>1e6616cd-d3f3-458a-b0b3-bafeb28c1687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proposed development changed after submitting the application'])[1]/following::span[1]</value>
+      <webElementGuid>0057c78c-e6aa-4d93-be75-d9b964ffd4b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Horizon Test PDF Less than 15mb - Copy.pdf'])[1]/preceding::span[1]</value>
+      <webElementGuid>481bf909-9622-417e-8c63-508636b05677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Plans, drawings and supporting documents']/parent::*</value>
+      <webElementGuid>17d0dc8a-698c-4139-967b-dd270a597af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dl[4]/div[4]/dt/span</value>
+      <webElementGuid>d8dd98a8-6e9a-431e-af82-332bfddbafc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Plans, drawings and supporting documents' or . = 'Plans, drawings and supporting documents')]</value>
+      <webElementGuid>ab8ea6eb-8939-4288-b9da-c8b8afd91133</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Change the decision letter</name>
+   <tag></tag>
+   <elementGuidId>be0087fb-c47f-4c00-908c-f609e96a4b9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div[2]/div/div/dl[4]/div[7]/dd[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>71bb82e5-87de-4651-9ca2-72893f381c6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-link</value>
+      <webElementGuid>7e3c3ef6-fcc4-490a-9b1e-30d7dfebded6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/full-appeal/submit-appeal/decision-letter</value>
+      <webElementGuid>f918101c-f461-4feb-9721-439dc6af4de7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cy</name>
+      <type>Main</type>
+      <value>change-decision-letter</value>
+      <webElementGuid>e66e7ce9-bc75-4057-b885-3dee623742ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Change the decision letter
+                </value>
+      <webElementGuid>ee3cbb5e-e5a1-4b09-823c-c298175d1f3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;govuk-main-wrapper govuk-main-wrapper--auto-spacing&quot;]/div[@class=&quot;govuk-grid-row&quot;]/div[@class=&quot;govuk-grid-column-full&quot;]/dl[@class=&quot;govuk-summary-list govuk-summary-list govuk-!-margin-bottom-9&quot;]/div[@class=&quot;govuk-summary-list__row&quot;]/dd[@class=&quot;govuk-summary-list__actions&quot;]/a[@class=&quot;govuk-link&quot;]</value>
+      <webElementGuid>f669009b-63a9-48ab-b781-e88b7df2660f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/dl[4]/div[7]/dd[2]/a</value>
+      <webElementGuid>55eb48b2-ced0-46b1-9cc3-20d1b90fa247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Horizon Test PNG Less than 15mb - Copy.PNG'])[2]/following::a[1]</value>
+      <webElementGuid>42cc44ab-e10a-44d5-92a1-6c41bde8a51c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Decision letter'])[1]/following::a[2]</value>
+      <webElementGuid>a6472aec-19e0-4df8-8c00-1ef68e8ca49d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your appeal'])[1]/preceding::a[1]</value>
+      <webElementGuid>74576017-1878-4edd-a43b-7f1f13771b3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/full-appeal/submit-appeal/decision-letter')]</value>
+      <webElementGuid>debd2083-ea9a-4c49-b687-8cdb1d383bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/dd[2]/a</value>
+      <webElementGuid>b1a77b1d-d199-420c-acd1-e9df6119b158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/full-appeal/submit-appeal/decision-letter' and (text() = '
+                Change the decision letter
+                ' or . = '
+                Change the decision letter
+                ')]</value>
+      <webElementGuid>22469d56-1796-4e46-802a-4ee3154e3d18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Email_Address_Page_Error</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f7d1ae1-3190-4ba7-ba3b-8deabc8973ec</testCaseGuid>
+</TestCaseEntity>

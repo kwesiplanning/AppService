@@ -1,0 +1,8 @@
+The following LPA's have NO emails registered on the CSV :
+  
+------------------------------------------------------
+  
+Tewkesbury
+Mendip
+Sedgemoor
+Somerset West and Taunton

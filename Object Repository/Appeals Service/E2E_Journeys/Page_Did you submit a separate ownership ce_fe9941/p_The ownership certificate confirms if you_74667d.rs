@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_The ownership certificate confirms if you_74667d</name>
+   <tag></tag>
+   <elementGuidId>3b00a338-2593-4f36-9b5a-aa1000ff512b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='did-you-submit-separate-certificate-hint']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#did-you-submit-separate-certificate-hint > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>98124831-0faf-4e6e-889f-1c259f493da4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The 'ownership certificate' confirms if you own all or some of the land involved in your application. The 'agricultural land declaration' confirms if any of the land is part of an agricultural holding.</value>
+      <webElementGuid>c1458a4b-7749-40cc-bbdc-7c91f87ce902</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;did-you-submit-separate-certificate-hint&quot;)/p[1]</value>
+      <webElementGuid>6d045318-4bcf-4c62-b0cb-ab1ae741f3ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='did-you-submit-separate-certificate-hint']/p</value>
+      <webElementGuid>2e9151c4-586b-4146-9bf7-48abe7b9234c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload documents from your planning application'])[1]/following::p[1]</value>
+      <webElementGuid>ff64e787-3ace-452c-825c-46b7755280ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::p[1]</value>
+      <webElementGuid>aa67334a-2b0c-43a9-9b66-5c9ff373e945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/preceding::p[2]</value>
+      <webElementGuid>79705375-5da3-4478-bafa-5ad4b724831d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::p[2]</value>
+      <webElementGuid>9b225ff7-1c8f-4df5-84da-5b006d92080d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/div/p</value>
+      <webElementGuid>c8781dde-043d-4331-9ca2-f34912684a3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;The &quot; , &quot;'&quot; , &quot;ownership certificate&quot; , &quot;'&quot; , &quot; confirms if you own all or some of the land involved in your application. The &quot; , &quot;'&quot; , &quot;agricultural land declaration&quot; , &quot;'&quot; , &quot; confirms if any of the land is part of an agricultural holding.&quot;) or . = concat(&quot;The &quot; , &quot;'&quot; , &quot;ownership certificate&quot; , &quot;'&quot; , &quot; confirms if you own all or some of the land involved in your application. The &quot; , &quot;'&quot; , &quot;agricultural land declaration&quot; , &quot;'&quot; , &quot; confirms if any of the land is part of an agricultural holding.&quot;))]</value>
+      <webElementGuid>8cc985db-8bac-4886-98b0-6c3cbe7a5f76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

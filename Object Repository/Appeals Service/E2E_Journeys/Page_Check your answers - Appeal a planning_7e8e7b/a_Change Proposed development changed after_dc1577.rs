@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Change Proposed development changed after_dc1577</name>
+   <tag></tag>
+   <elementGuidId>9f458a4f-8e26-4e32-87cd-a0d65d8e6202</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div[2]/div/div/dl[4]/div[3]/dd[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>227af0cf-29d2-42c3-a2d3-031381493439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-link</value>
+      <webElementGuid>a5069993-e83d-4ab4-b802-0a50a726d56e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/full-appeal/submit-appeal/proposed-development-changed</value>
+      <webElementGuid>219137a9-e4ab-4b6e-9ca1-6008a9156e90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cy</name>
+      <type>Main</type>
+      <value>description-development-correct</value>
+      <webElementGuid>3c7370f2-cf49-4e46-9f66-3a14aa97e820</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Change Proposed development changed after submitting the application
+                </value>
+      <webElementGuid>7784fe58-75ea-4d83-928c-cac0fcfa09b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;govuk-main-wrapper govuk-main-wrapper--auto-spacing&quot;]/div[@class=&quot;govuk-grid-row&quot;]/div[@class=&quot;govuk-grid-column-full&quot;]/dl[@class=&quot;govuk-summary-list govuk-summary-list govuk-!-margin-bottom-9&quot;]/div[@class=&quot;govuk-summary-list__row&quot;]/dd[@class=&quot;govuk-summary-list__actions&quot;]/a[@class=&quot;govuk-link&quot;]</value>
+      <webElementGuid>d45080f4-508d-4ac1-9538-fcb251e8b8c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/dl[4]/div[3]/dd[2]/a</value>
+      <webElementGuid>f79bb2bc-abdd-41b9-8be4-b973aeabf2bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[2]/following::a[1]</value>
+      <webElementGuid>8e1069f9-4c5d-4b90-9443-5de51e74072d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is the description of development on your application form still correct?'])[1]/following::a[1]</value>
+      <webElementGuid>cd35e294-c46c-464a-88c3-1aef6395bab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plans, drawings and supporting documents'])[1]/preceding::a[1]</value>
+      <webElementGuid>db4c24f5-3ea2-41b2-8df8-1432e2b6405e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/full-appeal/submit-appeal/proposed-development-changed')]</value>
+      <webElementGuid>91c8897f-7518-4ea8-b172-f103f7480181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dl[4]/div[3]/dd[2]/a</value>
+      <webElementGuid>72e8e51e-3486-45b8-a7b5-3365d1ec5b1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/full-appeal/submit-appeal/proposed-development-changed' and (text() = '
+                Change Proposed development changed after submitting the application
+                ' or . = '
+                Change Proposed development changed after submitting the application
+                ')]</value>
+      <webElementGuid>4a4541c4-3c71-400d-a843-c72e979779c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

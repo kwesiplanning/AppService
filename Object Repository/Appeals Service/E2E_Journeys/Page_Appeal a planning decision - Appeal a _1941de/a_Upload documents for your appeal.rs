@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Upload documents for your appeal</name>
+   <tag></tag>
+   <elementGuidId>1a53ff4f-9eaa-4147-8deb-6fc64f8415ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li[name=&quot;appealDocumentsSection&quot;] > a.moj-task-list__task-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div[2]/div/div/ol/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>597191c6-a006-4b57-86a4-32d585fe0fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cy</name>
+      <type>Main</type>
+      <value>appealDocumentsSection</value>
+      <webElementGuid>7314e75f-f603-49dc-bcfa-0654f353c27c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>moj-task-list__task-name</value>
+      <webElementGuid>8d7410d4-bb3e-402f-b682-618e1dde5d36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/full-appeal/submit-appeal/appeal-statement</value>
+      <webElementGuid>25f1330d-0fdb-4047-a572-ab7088f85ae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload documents for your appeal</value>
+      <webElementGuid>4e39ca55-2b51-43a8-a876-cecc3cc45df6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;govuk-main-wrapper govuk-main-wrapper--auto-spacing&quot;]/div[@class=&quot;govuk-grid-row&quot;]/div[@class=&quot;govuk-grid-column-two-thirds&quot;]/ol[@class=&quot;moj-task-list&quot;]/li[@class=&quot;moj-task-list__item&quot;]/a[@class=&quot;moj-task-list__task-name&quot;]</value>
+      <webElementGuid>e39c61fb-f519-44fc-b14e-afd017a09874</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/ol/li[5]/a</value>
+      <webElementGuid>b22aa320-d817-4407-9158-93b1a6e498f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Upload documents for your appeal')]</value>
+      <webElementGuid>89d425ba-ef28-4f33-8ac6-8bb6bfa42b70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOT STARTED'])[4]/following::a[1]</value>
+      <webElementGuid>7c10c849-33ba-4f5d-b4e0-95e791141fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload documents from your planning application'])[1]/following::a[1]</value>
+      <webElementGuid>90750122-8786-4fcc-8d28-59c2f0411225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOT STARTED'])[5]/preceding::a[1]</value>
+      <webElementGuid>37685eab-5604-427a-b91f-2efd60ba2b20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check your answers and submit your appeal'])[1]/preceding::a[1]</value>
+      <webElementGuid>daf2ac78-bd98-4362-b7eb-57c6040e13fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upload documents for your appeal']/parent::*</value>
+      <webElementGuid>9e28f4e3-aaaa-40bd-a383-75a385e7be71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/full-appeal/submit-appeal/appeal-statement')]</value>
+      <webElementGuid>c61e1f0b-13f3-47c6-92ac-9daa9a425379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>308d6793-a8fb-4c08-a605-f83149e0fdba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/full-appeal/submit-appeal/appeal-statement' and (text() = 'Upload documents for your appeal' or . = 'Upload documents for your appeal')]</value>
+      <webElementGuid>1a44767b-dcf4-4d38-8680-894cd4db14f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_You can find this on communications fro_9937b2</name>
+   <tag></tag>
+   <elementGuidId>c64a21ae-148e-4669-b866-018206946d2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#application-number-hint</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='application-number-hint']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b597d1b1-a27b-47a9-8fed-1d21d5be1916</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>application-number-hint</value>
+      <webElementGuid>7068eb08-78c4-4b2d-84f3-90533dbd6af6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-hint</value>
+      <webElementGuid>ddbb1e9b-4fd8-40bc-8b4b-433e5dfe1002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    You can find this on communications from your local planning department about your application
+  </value>
+      <webElementGuid>1a02c81c-afd2-4041-8b55-bab511cb1605</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-number-hint&quot;)</value>
+      <webElementGuid>78bfb11f-0645-495a-a081-7209bfeccc6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='application-number-hint']</value>
+      <webElementGuid>b2114adb-8d20-4911-89c1-58cca27617f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/form/span/div/div</value>
+      <webElementGuid>eceb06e7-b4bf-4e44-a171-a825d9e053ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('What', &quot;'&quot;, 's your planning application number?')])[1]/following::div[1]</value>
+      <webElementGuid>3fdc6258-384a-4092-8154-1d8315a64ecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::div[5]</value>
+      <webElementGuid>119fbf25-813e-4f39-bf40-b45734e87336</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::div[1]</value>
+      <webElementGuid>8f1e4ffe-19f1-44c8-9c90-98a313bc73ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact the Planning Inspectorate'])[1]/preceding::div[1]</value>
+      <webElementGuid>602c2f6c-4521-43fb-8de8-b79a284f743b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='You can find this on communications from your local planning department about your application']/parent::*</value>
+      <webElementGuid>da9aa40b-0c78-4e3e-9f63-c6c77a8713f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div</value>
+      <webElementGuid>3cfdeecd-5a43-476c-b206-8aa4d5b14554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'application-number-hint' and (text() = '
+    You can find this on communications from your local planning department about your application
+  ' or . = '
+    You can find this on communications from your local planning department about your application
+  ')]</value>
+      <webElementGuid>62f5a167-6cd3-4e7a-a9c9-b1b9f89696a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

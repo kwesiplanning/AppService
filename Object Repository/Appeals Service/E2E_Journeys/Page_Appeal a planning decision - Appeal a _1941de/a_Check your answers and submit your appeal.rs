@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Check your answers and submit your appeal</name>
+   <tag></tag>
+   <elementGuidId>37b43d6d-a969-4295-8efe-34d35d70c73e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div[2]/div/div/ol/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li[name=&quot;submitYourAppealSection&quot;] > a.moj-task-list__task-name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f44219de-8054-486b-8a9e-4814ea77f0d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cy</name>
+      <type>Main</type>
+      <value>submitYourAppealSection</value>
+      <webElementGuid>331a63be-61da-47d1-aea4-fdad06df5cab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>moj-task-list__task-name</value>
+      <webElementGuid>ee2ea2d3-09d0-436d-93d3-85b8b426bb84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/full-appeal/submit-appeal/check-your-answers</value>
+      <webElementGuid>df8d688d-fce6-4c94-a3fb-ca8b95ce9313</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Check your answers and submit your appeal</value>
+      <webElementGuid>42faa165-61c8-4576-940c-0439eede19e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;govuk-main-wrapper govuk-main-wrapper--auto-spacing&quot;]/div[@class=&quot;govuk-grid-row&quot;]/div[@class=&quot;govuk-grid-column-two-thirds&quot;]/ol[@class=&quot;moj-task-list&quot;]/li[@class=&quot;moj-task-list__item&quot;]/a[@class=&quot;moj-task-list__task-name&quot;]</value>
+      <webElementGuid>f118575d-9ac4-482b-9b8f-7427fa59c278</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/ol/li[6]/a</value>
+      <webElementGuid>e4fb9556-a7d3-43be-b7f6-49d17c767cbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Check your answers and submit your appeal')]</value>
+      <webElementGuid>8596f8bb-9ec0-4e20-9183-d1bfa00aacf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMPLETED'])[5]/following::a[1]</value>
+      <webElementGuid>15092e48-22ce-4ba9-822e-1e5f58825378</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload documents for your appeal'])[1]/following::a[1]</value>
+      <webElementGuid>2323382d-1bed-4b77-a2b7-1b96003f9ee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOT STARTED'])[1]/preceding::a[1]</value>
+      <webElementGuid>3e4d0d89-8bf3-493f-ab96-337d95de3a84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save and come back later'])[1]/preceding::a[1]</value>
+      <webElementGuid>2085dd86-a392-457c-8d81-cbc5854a9eac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Check your answers and submit your appeal']/parent::*</value>
+      <webElementGuid>b7305303-afdb-4cfe-9224-42c4b40359c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/full-appeal/submit-appeal/check-your-answers')]</value>
+      <webElementGuid>d34fa275-c5ab-4a60-b556-4569f6316cd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>db2c6e92-09fe-4887-8010-a38c6cfe913e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/full-appeal/submit-appeal/check-your-answers' and (text() = 'Check your answers and submit your appeal' or . = 'Check your answers and submit your appeal')]</value>
+      <webElementGuid>163e070b-bcf3-4cf0-9e7b-534ad6f8a16f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

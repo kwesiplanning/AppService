@@ -1,0 +1,8 @@
+The following LPA's are marked as FALSE on the CSV :
+  
+------------------------------------------------------
+  
+Northumberland
+Redcar and Cleveland
+Stockton on Tees
+Gateshead

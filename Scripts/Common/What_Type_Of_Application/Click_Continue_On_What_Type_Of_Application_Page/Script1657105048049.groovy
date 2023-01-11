@@ -19,3 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('Appeals Service/Type_Of_Planning_Application/button_Continue'))
 
+/*This code should be removed once the code has been fixed to correct the routing back to the LPA select page*/
+checkUrl = WebUI.getUrl()
+
+if (checkUrl == GlobalVariable.lpaPageUrl) {
+	WebUI.click(findTestObject('Appeals Service/LPA/button_Continue'))
+	WebUI.waitForPageLoad(2)
+	WebUI.click(findTestObject('Appeals Service/Type_Of_Planning_Application/button_Continue'))
+}

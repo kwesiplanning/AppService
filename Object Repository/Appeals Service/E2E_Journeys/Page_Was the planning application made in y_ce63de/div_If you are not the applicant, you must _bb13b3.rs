@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_If you are not the applicant, you must _bb13b3</name>
+   <tag></tag>
+   <elementGuidId>93e39c3b-13e8-400a-8a2c-d1e5a0ff23b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#original-application-your-name-hint</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='original-application-your-name-hint']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d6d16add-d45f-4843-821d-dd29b7a72cc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>original-application-your-name-hint</value>
+      <webElementGuid>6ef01d42-16a2-4da6-abef-064afd41a753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-hint</value>
+      <webElementGuid>438e47a1-228f-4718-a9fd-34394a1ba9fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    If you are not the applicant, you must have their permission to submit an appeal on their behalf.
+  </value>
+      <webElementGuid>0123898c-1a7e-45f3-850c-45d225b6ae60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;original-application-your-name-hint&quot;)</value>
+      <webElementGuid>dfe7b1fb-7003-43e1-ace6-4499a18ffe02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='original-application-your-name-hint']</value>
+      <webElementGuid>8ba4279f-664e-4530-87e8-a2a066f74222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/form/div/fieldset/div</value>
+      <webElementGuid>b8a5a4d9-15fc-4ccb-8773-10e71e574363</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Was the planning application made in your name?'])[1]/following::div[1]</value>
+      <webElementGuid>ff834e96-e43b-49b6-82ff-a0ac49e67807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Section.'])[1]/following::div[2]</value>
+      <webElementGuid>70784041-183e-4c46-b27a-9df9dd351a08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes, the planning application was made in my name'])[1]/preceding::div[1]</value>
+      <webElementGuid>4b78bf36-7911-4da4-bb7e-811a9f3ab0fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('No, I', &quot;'&quot;, 'm acting on behalf of the applicant')])[1]/preceding::div[2]</value>
+      <webElementGuid>063d4d39-ea2d-4c07-bbca-8b441146ab85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='If you are not the applicant, you must have their permission to submit an appeal on their behalf.']/parent::*</value>
+      <webElementGuid>331b493e-d698-4830-b679-5285c1b56794</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div</value>
+      <webElementGuid>d3f1c863-f031-4980-9747-887f555ba25d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'original-application-your-name-hint' and (text() = '
+    If you are not the applicant, you must have their permission to submit an appeal on their behalf.
+  ' or . = '
+    If you are not the applicant, you must have their permission to submit an appeal on their behalf.
+  ')]</value>
+      <webElementGuid>26f8511a-cb0f-4738-ba54-3cb9eb765590</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

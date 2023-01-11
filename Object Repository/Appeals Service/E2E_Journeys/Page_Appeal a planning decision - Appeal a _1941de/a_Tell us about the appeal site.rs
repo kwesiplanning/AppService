@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tell us about the appeal site</name>
+   <tag></tag>
+   <elementGuidId>f344e23d-5c84-4506-b1f5-e3426c804335</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div[2]/div/div/ol/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li[name=&quot;appealSiteSection&quot;] > a.moj-task-list__task-name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>09222ab2-6763-429f-a7de-b9fa5482fd06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cy</name>
+      <type>Main</type>
+      <value>appealSiteSection</value>
+      <webElementGuid>7d34ff66-ca00-4b6c-91e7-f569057d5096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>moj-task-list__task-name</value>
+      <webElementGuid>d7cf0cbc-66f9-4a81-8621-ddd898437628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/full-appeal/submit-appeal/appeal-site-address</value>
+      <webElementGuid>8e441ce6-b230-42aa-a5ba-e10ee1973405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tell us about the appeal site</value>
+      <webElementGuid>c9bd4456-cc36-4b24-857f-3c6fe89cf370</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;govuk-main-wrapper govuk-main-wrapper--auto-spacing&quot;]/div[@class=&quot;govuk-grid-row&quot;]/div[@class=&quot;govuk-grid-column-two-thirds&quot;]/ol[@class=&quot;moj-task-list&quot;]/li[@class=&quot;moj-task-list__item&quot;]/a[@class=&quot;moj-task-list__task-name&quot;]</value>
+      <webElementGuid>851e40a1-ac47-4146-a69c-c8b1e4a71675</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/ol/li[2]/a</value>
+      <webElementGuid>13a25c16-e98d-43c1-8237-ceac1d4bf4f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tell us about the appeal site')]</value>
+      <webElementGuid>77811422-4c4d-45c5-b3b3-9e74da68b606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOT STARTED'])[1]/following::a[1]</value>
+      <webElementGuid>f51759fe-8d4c-4900-b423-77473370ea43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provide your contact details'])[1]/following::a[1]</value>
+      <webElementGuid>fe7cf750-4ee3-4dbf-8cc0-04990c7a6b4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NOT STARTED'])[2]/preceding::a[1]</value>
+      <webElementGuid>f1b9ba6e-0a36-4710-a9e6-0c27ef2e3e12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tell us how you would prefer us to decide your appeal'])[1]/preceding::a[1]</value>
+      <webElementGuid>988778d9-81df-46d6-a0b6-5ee41c654ad1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tell us about the appeal site']/parent::*</value>
+      <webElementGuid>bb08c3f3-4d14-4a55-94a1-c2bfdfc7894e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/full-appeal/submit-appeal/appeal-site-address')]</value>
+      <webElementGuid>86ee83ee-f5c8-4e40-9203-05cc9d7251c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>e293fe2d-c880-4ad6-8730-ba07ea6d8b99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/full-appeal/submit-appeal/appeal-site-address' and (text() = 'Tell us about the appeal site' or . = 'Tell us about the appeal site')]</value>
+      <webElementGuid>cac082bb-df2f-4e2d-81cb-e832ed182acb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

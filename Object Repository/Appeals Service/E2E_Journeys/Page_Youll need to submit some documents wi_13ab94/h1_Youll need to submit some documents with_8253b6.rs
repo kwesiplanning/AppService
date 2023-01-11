@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Youll need to submit some documents with_8253b6</name>
+   <tag></tag>
+   <elementGuidId>10b4633b-64f9-46cb-92e0-a4371f5cf939</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div[2]/div/div/form/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.govuk-heading-l</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>505d0e0f-b5df-42e5-9c8b-064a119ca373</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-heading-l</value>
+      <webElementGuid>8bc9acf8-7054-4d13-bfb4-b7fa66ea50b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You'll need to submit some documents with your appeal</value>
+      <webElementGuid>f2c5ab50-3d22-42dc-a9c1-5b99d5ab4e1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;govuk-main-wrapper govuk-main-wrapper--auto-spacing&quot;]/div[@class=&quot;govuk-grid-row&quot;]/div[@class=&quot;govuk-grid-column-two-thirds&quot;]/form[1]/h1[@class=&quot;govuk-heading-l&quot;]</value>
+      <webElementGuid>a96fd210-675b-4f2a-8ffc-d4cc966a637f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/form/h1</value>
+      <webElementGuid>bbdb52e4-1c6f-4f97-aa93-a06f4fbe8935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::h1[1]</value>
+      <webElementGuid>41a9d2e9-209e-4155-a48a-de08bb6d953d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='feedback'])[1]/following::h1[1]</value>
+      <webElementGuid>c4945724-5f32-41e8-9308-b92743eb395a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='your planning application form'])[1]/preceding::h1[1]</value>
+      <webElementGuid>be40a2bd-c70d-4706-8498-3375ee85ea7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='the plans, drawings and supporting documents you submitted with your application'])[1]/preceding::h1[1]</value>
+      <webElementGuid>80c752f3-3bea-46d5-b1b1-5838f8b30c4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>27001593-fe9b-45da-9848-ecaaee7285d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = concat(&quot;You&quot; , &quot;'&quot; , &quot;ll need to submit some documents with your appeal&quot;) or . = concat(&quot;You&quot; , &quot;'&quot; , &quot;ll need to submit some documents with your appeal&quot;))]</value>
+      <webElementGuid>805b6df5-a28d-436c-b454-4029345015d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

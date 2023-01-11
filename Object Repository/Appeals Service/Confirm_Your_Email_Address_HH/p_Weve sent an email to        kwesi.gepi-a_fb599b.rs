@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Weve sent an email to        kwesi.gepi-a_fb599b</name>
+   <tag></tag>
+   <elementGuidId>57a7b4ba-3076-4d31-9092-1cd0f65a2936</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div[2]/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.govuk-body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>bed897ce-98bd-445e-9b3e-8854d446c60b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-body</value>
+      <webElementGuid>7c65cd44-78f1-436a-86d6-ecb8e08ae4a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>We've sent an email to:
+        kwesi.gepi-attee@planninginspectorate.gov.uk
+      </value>
+      <webElementGuid>5a4288bc-0384-4f8a-903b-29bd9a42f4af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;govuk-main-wrapper govuk-main-wrapper--auto-spacing&quot;]/div[@class=&quot;govuk-grid-row&quot;]/div[@class=&quot;govuk-grid-column-two-thirds&quot;]/p[@class=&quot;govuk-body&quot;]</value>
+      <webElementGuid>f7b06012-b7af-49bf-9b2a-f71f6f21f698</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/p</value>
+      <webElementGuid>c2a77faa-ac9b-4d68-b4e5-9f8aeeeab7dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm your email address'])[1]/following::p[1]</value>
+      <webElementGuid>d7b026da-80e6-442e-a14b-c4f0e2b1f3e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::p[1]</value>
+      <webElementGuid>aaa4e008-020a-4819-a074-2a607368a2d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('If you', &quot;'&quot;, 're having problems')])[1]/preceding::p[2]</value>
+      <webElementGuid>bdb0bbeb-e365-4a23-ad5f-6310c35110e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='resend the email'])[1]/preceding::p[3]</value>
+      <webElementGuid>f409ca7e-1702-4a33-873d-0c45cba3d713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/p</value>
+      <webElementGuid>d7ba80f1-6ff9-44ce-adc0-194656a3499e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;We&quot; , &quot;'&quot; , &quot;ve sent an email to:
+        kwesi.gepi-attee@planninginspectorate.gov.uk
+      &quot;) or . = concat(&quot;We&quot; , &quot;'&quot; , &quot;ve sent an email to:
+        kwesi.gepi-attee@planninginspectorate.gov.uk
+      &quot;))]</value>
+      <webElementGuid>38fc19c3-6f93-44e8-90d5-1b2cd11598f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

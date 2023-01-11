@@ -1,0 +1,12 @@
+The following LPA's are marked as true on the CSV but are not listed in the Beta service drop down :
+  
+------------------------------------------------------
+  
+Newcastle upon Tyne1
+North Tyneside1
+South Tyneside1
+Sunderland1
+
+
+
+

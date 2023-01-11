@@ -1,0 +1,8 @@
+=CONCATENATE("1. The error page title is: '",Data!G4, "'")
+=CONCATENATE("3. The page has error message: '",Data!F4, "'")
+
+=CONCATENATE("{email address householder",Data!P3, "")
+=CONCATENATE("{application number householder}: ",Data!P4, "")
+
+{email address householder}: kwesi.gepi-attee@planninginspectorate.gov.uk
+{application number householder}: TEST_Application_123!

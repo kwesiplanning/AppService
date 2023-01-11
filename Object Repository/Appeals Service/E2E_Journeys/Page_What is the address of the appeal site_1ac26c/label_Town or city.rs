@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Town or city</name>
+   <tag></tag>
+   <elementGuidId>e284505a-0a8e-4108-9b76-fb1a9084f4ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='site-town-city-label']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#site-town-city-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>14cb9c15-eaac-429e-8067-cdd8a177aad7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-label</value>
+      <webElementGuid>65955c47-9634-4528-aae1-6c1732131911</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>site-town-city-label</value>
+      <webElementGuid>b8264cb3-b80e-49db-bef4-ad5ba604c41a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>site-town-city</value>
+      <webElementGuid>eaf44c87-e294-4cf7-bfb4-b9fa5fe84318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Town or city
+  </value>
+      <webElementGuid>7c02d40c-8ebc-45c2-ac24-e59e8bd7e154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-town-city-label&quot;)</value>
+      <webElementGuid>ddb125c7-83c7-4e6e-9cc7-30759cf003ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='site-town-city-label']</value>
+      <webElementGuid>d5a08ae0-9bfe-4ec4-a5b3-1ad17e1748b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/form/fieldset/div[3]/label</value>
+      <webElementGuid>29e5b51d-0ec6-41fd-bc24-5404a9bd85f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Building and street line 2 of 2'])[1]/following::label[1]</value>
+      <webElementGuid>f7e70838-6430-4fdc-ab6d-929f41b2d06b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='line 1 of 2'])[1]/following::label[2]</value>
+      <webElementGuid>7a01957a-af13-4900-b667-26a1771085b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='County'])[1]/preceding::label[1]</value>
+      <webElementGuid>08bf8a56-3d67-447a-bb3d-9474ffe0bb34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postcode'])[1]/preceding::label[2]</value>
+      <webElementGuid>b618c467-b372-42b2-8dc1-499d55624930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Town or city']/parent::*</value>
+      <webElementGuid>9e9b1024-b9e0-44e1-992c-f9234341a7fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label</value>
+      <webElementGuid>eae6a5f7-dbc1-4a5c-8ea6-370fc476604a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'site-town-city-label' and (text() = '
+    Town or city
+  ' or . = '
+    Town or city
+  ')]</value>
+      <webElementGuid>a490f8d0-f81b-4af8-9cf3-147f00ad1b4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

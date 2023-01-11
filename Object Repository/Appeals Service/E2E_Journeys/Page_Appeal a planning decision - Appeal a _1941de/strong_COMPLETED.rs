@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_COMPLETED</name>
+   <tag></tag>
+   <elementGuidId>cd986793-8f0d-495e-9b60-2510f0e8e52d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-content']/div[2]/div/div/ol/li/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong.govuk-tag.moj-task-list__task-completed</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>33a94f0d-dadc-4dfd-8ba7-67545c2f0a5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-tag moj-task-list__task-completed</value>
+      <webElementGuid>89d3cd4a-a728-4f91-90ab-eb0a0ac37ed6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+  COMPLETED
+</value>
+      <webElementGuid>d17640a0-f62e-44d5-8f9f-b5d309ccbce8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;govuk-main-wrapper govuk-main-wrapper--auto-spacing&quot;]/div[@class=&quot;govuk-grid-row&quot;]/div[@class=&quot;govuk-grid-column-two-thirds&quot;]/ol[@class=&quot;moj-task-list&quot;]/li[@class=&quot;moj-task-list__item&quot;]/strong[@class=&quot;govuk-tag moj-task-list__task-completed&quot;]</value>
+      <webElementGuid>bf5c2d70-e46e-4993-9913-5d39de54cdb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/ol/li/strong</value>
+      <webElementGuid>2da1567e-2caf-4a71-bf62-294cd6dea95e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provide your contact details'])[1]/following::strong[1]</value>
+      <webElementGuid>f5d150d0-2db1-4b66-9837-2436da2f4bbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appeal incomplete'])[1]/following::strong[1]</value>
+      <webElementGuid>005c393d-80f4-4bcd-b427-ddbe469e1926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tell us about the appeal site'])[1]/preceding::strong[1]</value>
+      <webElementGuid>76fab63f-8ca5-4c12-bb03-0823edc7e81c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMPLETED'])[2]/preceding::strong[1]</value>
+      <webElementGuid>2a905a26-f76f-4fdf-8c28-69b2e36935df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='COMPLETED']/parent::*</value>
+      <webElementGuid>f3c3b2aa-ce1e-4f77-a9b0-699bfaaea69b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/strong</value>
+      <webElementGuid>2c204389-fb01-426e-ae7f-1ea128ffb9ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = '
+  COMPLETED
+' or . = '
+  COMPLETED
+')]</value>
+      <webElementGuid>f4941a1e-aa61-4163-87d2-ecea1e4e72e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

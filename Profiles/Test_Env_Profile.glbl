@@ -66,6 +66,11 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
+      <initValue>'https://appeals-service-test.planninginspectorate.gov.uk/before-you-start/use-existing-service-costs'</initValue>
+      <name>useExistingServiceCostsUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
       <initValue>'https://appeals-service-test.planninginspectorate.gov.uk/before-you-start/decision-date'</initValue>
       <name>dateOnDecisionLetterPageUrl</name>
    </GlobalVariableEntity>
@@ -98,6 +103,51 @@
       <description></description>
       <initValue>'https://appeals-service-test.planninginspectorate.gov.uk/before-you-start/claiming-costs-householder'</initValue>
       <name>claimingAnyCostsPageUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://appeals-service-test.planninginspectorate.gov.uk/before-you-start/can-use-service'</initValue>
+      <name>canUseThisService_HH_FP_Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://appeals-service-test.planninginspectorate.gov.uk/full-appeal/submit-appeal/planning-application-number'</initValue>
+      <name>applicationNumberPageFPUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://appeals-service-test.planninginspectorate.gov.uk/appeal-householder-decision/planning-application-number'</initValue>
+      <name>applicationNumberPageHHUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://appeals-service-test.planninginspectorate.gov.uk/full-appeal/submit-appeal/email-address'</initValue>
+      <name>emailAddress_FP_PageUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://appeals-service-test.planninginspectorate.gov.uk/appeal-householder-decision/email-address'</initValue>
+      <name>emailAddress_HH_PageUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://appeals-service-test.planninginspectorate.gov.uk/full-appeal/submit-appeal/confirm-email-address'</initValue>
+      <name>confirmYourEmailAddressFPUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://appeals-service-test.planninginspectorate.gov.uk/appeal-householder-decision/confirm-email-address'</initValue>
+      <name>confirmYourEmailAddressHHUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://appeals-service-test.planninginspectorate.gov.uk/full-appeal/submit-appeal/email-address-confirmed'</initValue>
+      <name>emailAddressConfirmedFPUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://appeals-service-test.planninginspectorate.gov.uk/appeal-householder-decision/email-address-confirmed'</initValue>
+      <name>emailAddressConfirmedHHUrl</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
@@ -151,6 +201,11 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
+      <initValue>'You need to use the existing service - Before you start - Appeal a planning decision - GOV.UK'</initValue>
+      <name>useExistingServiceCostsTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
       <initValue>'What\'s the decision date on the letter from the local planning department? - Before you start - Appeal a planning decision - GOV.UK'</initValue>
       <name>dateOnDecisionLetterPageTitle</name>
    </GlobalVariableEntity>
@@ -181,12 +236,42 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
+      <initValue>'You can appeal using this service - Before you start - Appeal a planning decision - GOV.UK'</initValue>
+      <name>canUseThisService_HH_FP_Title</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'What\'s your planning application number? - Appeal a planning decision - GOV.UK'</initValue>
+      <name>applicationNumberPageTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'What\'s your email address? - Appeal a planning decision - GOV.UK'</initValue>
+      <name>emailAddressFPPageTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'What\'s your email address? - Appeal a planning decision - GOV.UK'</initValue>
+      <name>emailAddressHHPageTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Confirm your email address - Appeal a planning decision - GOV.UK'</initValue>
+      <name>confirmYourEmailAddressCommonTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Your email address is confirmed - Appeal a planning decision - GOV.UK'</initValue>
+      <name>emailAddressConfirmedCommonTitle</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
       <initValue>'20'</initValue>
       <name>Day_ValueParam</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'6'</initValue>
+      <initValue>'9'</initValue>
       <name>Month_ValueParam</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -198,5 +283,40 @@
       <description></description>
       <initValue>'1999'</initValue>
       <name>InValid_Year_ValueParam</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>8</initValue>
+      <name>PageLoadDelay</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>6</initValue>
+      <name>GlobalDelay</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AUTOTEST_123456798'</initValue>
+      <name>ApplicationNumber</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'kwesi.gepi-attee@planninginspectorate.gov.uk'</initValue>
+      <name>EmailAddress</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://appeal-planning-decision.service.gov.uk/before-you-start/local-planning-department'</initValue>
+      <name>LPA_OnBoard_lpa_page_Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://appeal-planning-decision.service.gov.uk/before-you-start/type-of-planning-application'</initValue>
+      <name>LPA_OnBoard_What_Type_Off_App_page_Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://appeal-planning-decision.service.gov.uk/before-you-start/use-existing-service-local-planning-department'</initValue>
+      <name>LPA_OnBoard_Use_Existing_Service</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

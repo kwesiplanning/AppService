@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Building and street line 1 of 2</name>
+   <tag></tag>
+   <elementGuidId>fb2ade6f-7526-4236-9561-c7f195697b95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='site-address-line-one-label']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#site-address-line-one-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d1af4f43-772a-4741-9aad-df99e93033cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-label</value>
+      <webElementGuid>2cbff0f8-7974-4e23-9e59-63c5debe86fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>site-address-line-one-label</value>
+      <webElementGuid>615f3c86-9f06-4c14-82bc-af6e1ce21e99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>site-address-line-one</value>
+      <webElementGuid>3b0bdbba-9d89-4d69-9a78-60febb1342c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Building and street line 1 of 2
+  </value>
+      <webElementGuid>4d8f78ab-5b64-4c07-9dbb-3d782994c5c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-address-line-one-label&quot;)</value>
+      <webElementGuid>45520568-5d19-439e-8d6b-933c6dec2369</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='site-address-line-one-label']</value>
+      <webElementGuid>c1728252-8e9d-4ceb-aeac-858d582b0b6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/form/fieldset/div/label</value>
+      <webElementGuid>eccb8f77-66b6-4b07-988d-9bb8d6f0d12f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What is the address of the appeal site?'])[1]/following::label[1]</value>
+      <webElementGuid>f9262d2e-f48f-4343-adf6-5fdf7fd6c182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Section.'])[1]/following::label[1]</value>
+      <webElementGuid>e6c5cef7-de19-4fcb-be72-6874928026dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Building and street line 2 of 2'])[1]/preceding::label[1]</value>
+      <webElementGuid>07fe313d-2236-4252-aa0f-99bf80a9a944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Building and street']/parent::*</value>
+      <webElementGuid>04696faa-be97-40a2-a611-6b4c82cf2e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>93d19e8f-9124-4045-801b-1cb0bc49d917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'site-address-line-one-label' and (text() = '
+    Building and street line 1 of 2
+  ' or . = '
+    Building and street line 1 of 2
+  ')]</value>
+      <webElementGuid>05d9c24d-f4d7-425b-a474-44816afaab3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

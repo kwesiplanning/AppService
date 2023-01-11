@@ -17,5 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Appeals Service/Granted_or_Refused/label_I have not received a decision'))
+WebUI.click(findTestObject('Appeals Service/Granted_or_Refused_Full_Planning/label_I have not received a decision'))
 

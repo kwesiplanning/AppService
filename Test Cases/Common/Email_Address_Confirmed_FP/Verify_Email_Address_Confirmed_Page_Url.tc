@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Email_Address_Confirmed_Page_Url</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a066618b-6160-4407-9937-80475b32a1ab</testCaseGuid>
+</TestCaseEntity>

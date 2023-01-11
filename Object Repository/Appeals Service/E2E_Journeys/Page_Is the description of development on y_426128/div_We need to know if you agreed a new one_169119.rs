@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_We need to know if you agreed a new one_169119</name>
+   <tag></tag>
+   <elementGuidId>23ee9d19-0547-4882-a49d-4f921e824fd6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='plan-to-submit-planning-obligation-hint']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#plan-to-submit-planning-obligation-hint</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fef465df-5bc6-42ad-bc29-8b9b041aed14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>plan-to-submit-planning-obligation-hint</value>
+      <webElementGuid>ba69dd6d-0e38-461c-a796-a7adc3bdf59d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>govuk-hint</value>
+      <webElementGuid>3b2ca9d0-4e97-4059-bdab-c3226c493981</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        We need to know if you agreed a new one with the local planning department
+                     </value>
+      <webElementGuid>ae42c052-076f-4c9f-bd62-0270ca6d0384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;plan-to-submit-planning-obligation-hint&quot;)</value>
+      <webElementGuid>8080edad-9821-42c2-b452-18b7b1bc93bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='plan-to-submit-planning-obligation-hint']</value>
+      <webElementGuid>d307d574-8474-4380-8bed-32e556885c62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content']/div[2]/div/div/form/div/fieldset/legend/h1/div</value>
+      <webElementGuid>6daf07b8-11b4-43e6-b3ad-c50abef8f40a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Section.'])[1]/following::div[2]</value>
+      <webElementGuid>b43024d0-1b50-42fb-9415-c927a3357bf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes, the description of development is still correct'])[1]/preceding::div[1]</value>
+      <webElementGuid>3cc53e4a-d8e7-4dac-a89a-d3b98f92bb34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No, I agreed a new one with the local planning department'])[1]/preceding::div[2]</value>
+      <webElementGuid>8c2fe49d-a58c-4faf-b196-f306491963b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='We need to know if you agreed a new one with the local planning department']/parent::*</value>
+      <webElementGuid>d24ea24e-757d-4558-be6c-26c87e918759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/div</value>
+      <webElementGuid>7940d5fa-4f6f-479c-bb5c-cda709b883f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'plan-to-submit-planning-obligation-hint' and (text() = '
+                        We need to know if you agreed a new one with the local planning department
+                     ' or . = '
+                        We need to know if you agreed a new one with the local planning department
+                     ')]</value>
+      <webElementGuid>60c567c2-8de7-4655-ade2-eff965a37de0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

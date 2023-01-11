@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_Received_An_Enforcement_Page_Url</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adef68e5-0fa2-4063-8fcb-a06c99a31724</testCaseGuid>
+</TestCaseEntity>

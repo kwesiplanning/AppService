@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Verify_Received_An_Enforcement_Error_Page</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>e4725eb0-8145-4a20-a561-ebc261c698e2</testCaseGuid>
-</TestCaseEntity>
